@@ -1,12 +1,11 @@
-# This project was created as part of the Udacity React nanodegree program 
+## This project was created as part of the Udacity React nanodegree program 
 
 
 ## To run the project on your local machine, follow the steps below
 In the project directory, you can run:
 
 ### `npm install`
-
-In the project directory, you can run:
+Next , you can run:
 
 ### `npm start`
 
