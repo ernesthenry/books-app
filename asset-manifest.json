@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/books-app/static/css/main.b45f327f.chunk.css",
+    "main.js": "/books-app/static/js/main.021b2622.chunk.js",
+    "main.js.map": "/books-app/static/js/main.021b2622.chunk.js.map",
+    "runtime-main.js": "/books-app/static/js/runtime-main.47686b51.js",
+    "runtime-main.js.map": "/books-app/static/js/runtime-main.47686b51.js.map",
+    "static/js/2.926fd58a.chunk.js": "/books-app/static/js/2.926fd58a.chunk.js",
+    "static/js/2.926fd58a.chunk.js.map": "/books-app/static/js/2.926fd58a.chunk.js.map",
+    "index.html": "/books-app/index.html",
+    "precache-manifest.f6ff875caef52dabc96dbefa6e2cbb51.js": "/books-app/precache-manifest.f6ff875caef52dabc96dbefa6e2cbb51.js",
+    "service-worker.js": "/books-app/service-worker.js",
+    "static/css/main.b45f327f.chunk.css.map": "/books-app/static/css/main.b45f327f.chunk.css.map",
+    "static/js/2.926fd58a.chunk.js.LICENSE.txt": "/books-app/static/js/2.926fd58a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/books-app/static/media/arrow-drop-down.78c6f53b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47686b51.js",
+    "static/js/2.926fd58a.chunk.js",
+    "static/css/main.b45f327f.chunk.css",
+    "static/js/main.021b2622.chunk.js"
+  ]
+}
